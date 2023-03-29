@@ -4,8 +4,10 @@ I'm a 19 year old male from Portugal.
 
 You can find me on these socials: 
 - Twitch: [**Kikito_kikinho11**](https://www.twitch.tv/kikito_kikinho11)
-- Discord: **Kikito#9669**
-- Reddit: [**kif_kikinho11**](https://www.reddit.com/user/kif_kikinho11)
+- Discord: **Kikito#9669** (You can find me here most of the time)
+- Reddit: [**kif_kikinho11**](https://www.reddit.com/user/kif_kikinho11) (I never use Reddit)
+- Kagger: [**Francisco Almeida**](https://www.kaggle.com/kikinho11/account) (Mostly for my Case Study Notebooks and explanations)
+- LinkedIn: [**Francisco Almeida**](https://www.linkedin.com/in/francisco-almeida-8a117022a/)
 
 I'm studying to have multiple technical areas such as:
   - Web Developer (Need to finish a course for JavaScript and TypeScript)
@@ -17,24 +19,29 @@ You can find my web developer repos in my profile or in my organization.
 ## Projects Created
 <details>
 
-<summary>My Projects</summary>
+<summary>Data Analyst Case Studies</summary>
 
-### You can add a header
 
-You can add text within a collapsed section. 
 
-You can add an image or a code block, too.
+</details>
+  
+<details>
 
-```ruby
-   puts "Hello World"
-```
+<summary>Web Development Websites</summary>
+
+- [CyberForum](https://github.com/kikinho11/PAP-Forum) (Finished)
+
+</details>
+  
+<details>
+
+<summary>Game Development Projects</summary>
+
+- [Project SAO](https://github.com/Project-SAO) (Not working at the moment)
 
 </details>
 
-I also have a website that I host a remote connection to my computer but it's not working at the moment.
-
-My main organization is [Project SAO](https://github.com/Project-SAO).
-I was working in a game with a friend but we are not working in that project at the moment.
+## Ending
 
 I'm starting a carrer as a Data Analyst so expect new repos with R code and other updates to my socials.
 
