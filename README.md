@@ -35,7 +35,7 @@ You can find my web development repos in my profile or in my organization.
 
 ## Ending
 
-I'm starting a carrer as a Data Analyst so expect new repos with R code and other updates to my socials.
+Right now, I'm studying a JavaScript/TypeScript Course so I can start to work as a Full Stack Web Developer
 
 Have a nice day!
 
