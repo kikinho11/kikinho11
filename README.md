@@ -11,10 +11,9 @@ You can find me on these socials:
 
 I'm studying to have multiple technical areas such as:
   - Web Developer (Need to finish a course for JavaScript and TypeScript)
-  - Data Analyst (Finishing a course from Google)
   - Game Developer (Need to study a blender course and a C#/C++ course)
 
-You can find my web developer repos in my profile or in my organization.
+You can find my web development repos in my profile or in my organization.
 
 ## Projects Created
 <details>
