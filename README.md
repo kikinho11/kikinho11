@@ -16,13 +16,6 @@ I'm studying to have multiple technical areas such as:
 You can find my web development repos in my profile or in my organization.
 
 ## Projects Created
-<details>
-
-<summary>Data Analyst Case Studies</summary>
-
-
-
-</details>
   
 <details>
 
