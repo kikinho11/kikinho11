@@ -6,7 +6,6 @@ You can find me on these socials:
 - Twitch: [**Kikito_kikinho11**](https://www.twitch.tv/kikito_kikinho11)
 - Discord: **Kikito#9669** (You can find me here most of the time)
 - Reddit: [**kif_kikinho11**](https://www.reddit.com/user/kif_kikinho11) (I never use Reddit)
-- Kagger: [**Francisco Almeida**](https://www.kaggle.com/kikinho11/account) (Mostly for my Case Study Notebooks and explanations)
 - LinkedIn: [**Francisco Almeida**](https://www.linkedin.com/in/francisco-almeida-8a117022a/)
 
 I'm studying to have multiple technical areas such as:
