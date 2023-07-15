@@ -4,7 +4,7 @@ I'm a 19 year old male from Portugal.
 
 You can find me on these socials: 
 - Twitch: [**Kikito_kikinho11**](https://www.twitch.tv/kikito_kikinho11)
-- Discord: **Kikito#9669** (You can find me here most of the time)
+- Discord: **kikito** (You can find me here most of the time)
 - Reddit: [**kif_kikinho11**](https://www.reddit.com/user/kif_kikinho11) (I never use Reddit)
 - LinkedIn: [**Francisco Almeida**](https://www.linkedin.com/in/francisco-almeida-8a117022a/)
 
