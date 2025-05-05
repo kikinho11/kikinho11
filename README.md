@@ -6,13 +6,9 @@ You can find me on these socials:
 - Twitch: [**Kikito_kikinho11**](https://www.twitch.tv/kikito_kikinho11)
 - Discord: **kikito** (You can find me here most of the time)
 - Reddit: [**kif_kikinho11**](https://www.reddit.com/user/kif_kikinho11) (I never use Reddit)
-- LinkedIn: [**Francisco Almeida**](https://www.linkedin.com/in/francisco-almeida-8a117022a/)
 
-I'm studying to have multiple technical areas such as:
-  - Web Developer (Need to finish a course for JavaScript and TypeScript)
-  - Game Developer (Need to study a blender course and a C#/C++ course)
-
-You can find my web development repos in my profile or in my organization.
+I have some knowledge on Programming but today I'm mostly focused on become a System Administrator.
+(Trying to achieve my CCNA first)
 
 ## Projects Created
   
@@ -35,10 +31,6 @@ You can find my web development repos in my profile or in my organization.
 - [Project SAO](https://github.com/Project-SAO) (Not working at the moment)
 
 </details>
-
-## Ending
-
-Right now, I'm studying a JavaScript/TypeScript Course so I can start to work as a Full Stack Web Developer
 
 Have a nice day!
 
